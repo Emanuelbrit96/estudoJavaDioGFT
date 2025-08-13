@@ -63,6 +63,8 @@ public class IfElse {
 		}		
 		 // 18 ou mais, pode dirigir
         System.out.printf("%s tem %d anos e pode dirigir.\n", name, age);
+        
+        scan.close();
 	}
-
+	
 }
